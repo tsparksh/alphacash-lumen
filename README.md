@@ -1,4 +1,4 @@
-#Installation
+# Installation
 
 Set up `NEWSAPI_API_KEY` to the `.env`
 ```
